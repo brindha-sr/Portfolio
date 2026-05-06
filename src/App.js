@@ -263,13 +263,13 @@ function App() {
 
           <motion.div variants={itemVariants} className="bg-white/5 backdrop-blur border border-gray-800 p-8 rounded-2xl">
             <p className="text-gray-300 text-lg leading-relaxed mb-6">
-              I'm a passionate developer and AI enthusiast with a strong foundation in Data Structures, Algorithms, and Machine Learning. Currently pursuing my studies in AI & Data Science, I've worked on multiple projects that combine backend development with intelligent systems.
+              I'm a passionate developer and AI enthusiast with a strong foundation in Machine Learning and Data Structures, Algorithms. Currently pursuing my studies in AI & Data Science at Kongu Engineering College, I've worked on multiple projects that combine backend development with intelligent systems.
             </p>
             <p className="text-gray-300 text-lg leading-relaxed mb-6">
-              My expertise spans from building scalable backend systems with Java and Spring Boot to developing ML models using Python and TensorFlow. I'm particularly interested in sustainable tech and optimization algorithms.
+              My expertise spans from building scalable backend systems with MERN to developing ML models using Python and TensorFlow. I'm particularly interested in sustainable tech and optimization algorithms.
             </p>
             <p className="text-gray-300 text-lg leading-relaxed">
-              When I'm not coding, I'm exploring new technologies, contributing to open-source projects, and solving complex algorithmic problems on competitive programming platforms.
+              When I'm not coding, I'm exploring new technologies, contributing to open-source projects, and solving complex algorithmic problems on programming platforms.
             </p>
           </motion.div>
         </motion.div>
