@@ -30,23 +30,23 @@ function App() {
   const projects = [
     {
       name: "VerdeRoute",
-      description: "AI-powered route optimization for sustainable delivery systems. Reduces carbon footprint using machine learning algorithms.",
+      description: "AI-powered route optimization for sustainable delivery systems. Reduces carbon footprint and providing multiple routes with tourist guidance.",
       tech: ["JavaScript","Leaflet.js", "OpenRouteService API","MongoDB"],
-      link: "https://github.com/brindha-sr",
+      link: "https://github.com/brindha-sr/VerdeRoute",
       icon: Lightbulb,
     },
     {
       name: "AI- Powered Stock Prediction System using LSTM Model",
       description: "LSTM-based model for stock price prediction with 85%+ accuracy on test data.",
       tech: ["Python", "TensorFlow", "Pandas", "Keras"],
-      link: "https://github.com/brindha-sr",
+      link: "https://github.com/brindha-sr/AI-Powered-Stock-Price-Prediction",
       icon: Code,
     },
     {
       name: "Inventory Management System",
-      description: "Inventory management system with real-time tracking and predictive stock analysis.",
+      description: "Inventory management system with real-time inventory tracking and stock updates.",
       tech: ["Java", "SQL"],
-      link: "https://github.com/brindha-sr",
+      link: "https://github.com/brindha-sr/InventoryManagement",
       icon: Database,
     },
   ];
